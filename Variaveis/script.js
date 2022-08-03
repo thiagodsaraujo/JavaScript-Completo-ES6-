@@ -20,7 +20,8 @@ console.log(totalPreco)
 // Usando virgula
 
 var sobrenome = 'Rafael',
-    cidade = 'Rio';
+    cidade = 'Rio',
+    bairro = 'Copacabana'
 
 console.log(sobrenome, cidade);
 
