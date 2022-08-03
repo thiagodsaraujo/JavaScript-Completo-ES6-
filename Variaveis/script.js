@@ -21,7 +21,8 @@ console.log(totalPreco)
 
 var sobrenome = 'Rafael',
     cidade = 'Rio',
-    bairro = 'Copacabana'
+    bairro = 'Copacabana',
+    rua = "rua";
 
 console.log(sobrenome, cidade);
 
@@ -38,4 +39,13 @@ var semDefinir4;
 semDefinir1 = 'cor';
 
 console.log(semDefinir1);
+
+var name = "Fulano de Tal",
+    age = 19;
+
+var comidaFavorita;
+
+comidaFavorita = 'Pizza';
+
+console.log(comidaFavorita);
 
